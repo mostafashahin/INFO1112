@@ -4,6 +4,10 @@
 
 #Comment on remote repo
 
+
+
+#Comment on Thurs Morning
+
 #check for number of arguments
 dir=$(pwd)
 if [ $# -eq 1 ]; then
