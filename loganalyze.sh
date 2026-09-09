@@ -8,6 +8,9 @@
 
 #Comment on Thurs Morning
 
+
+# Comment on Github
+
 #check for number of arguments
 dir=$(pwd)
 if [ $# -eq 1 ]; then
